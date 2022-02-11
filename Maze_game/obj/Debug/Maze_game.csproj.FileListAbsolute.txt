@@ -1,0 +1,13 @@
+D:\INFO\Atestat\backup\Maze_game\bin\Debug\Maze_game.exe.config
+D:\INFO\Atestat\backup\Maze_game\bin\Debug\Maze_game.exe
+D:\INFO\Atestat\backup\Maze_game\bin\Debug\Maze_game.pdb
+D:\INFO\Atestat\backup\Maze_game\obj\Debug\Maze_game.csproj.AssemblyReference.cache
+D:\INFO\Atestat\backup\Maze_game\obj\Debug\Maze_game.csproj.SuggestedBindingRedirects.cache
+D:\INFO\Atestat\backup\Maze_game\obj\Debug\Maze_game.Menu.resources
+D:\INFO\Atestat\backup\Maze_game\obj\Debug\Maze_game.First_Page.resources
+D:\INFO\Atestat\backup\Maze_game\obj\Debug\Maze_game.Menu_Secondary.resources
+D:\INFO\Atestat\backup\Maze_game\obj\Debug\Maze_game.Properties.Resources.resources
+D:\INFO\Atestat\backup\Maze_game\obj\Debug\Maze_game.csproj.GenerateResource.cache
+D:\INFO\Atestat\backup\Maze_game\obj\Debug\Maze_game.csproj.CoreCompileInputs.cache
+D:\INFO\Atestat\backup\Maze_game\obj\Debug\Maze_game.exe
+D:\INFO\Atestat\backup\Maze_game\obj\Debug\Maze_game.pdb
